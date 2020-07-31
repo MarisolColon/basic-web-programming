@@ -1,1 +1,3 @@
-Chapter 1 to Chapter 4 branch
+# RUN THE PROGRAM 
+  - browser-sync start --server --browser "Google Chrome"
+  - browser-sync start --server --files "stylesheets/*.css, *.html"
